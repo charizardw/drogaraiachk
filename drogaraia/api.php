@@ -6,7 +6,6 @@ set_time_limit(0);
 #==============================================================================================#
 
 #==============================================================================================#
-
 $loadtime = time();
 $dataehora = date("F j, Y, h:i:s a");
 
@@ -16,9 +15,6 @@ function getStr($string, $start, $end)
     $str = explode($end, $str[1]);
     return $str[0];
 }
-
-
-
 
 extract($_GET);
 $lista = str_replace(" ", "", $lista);
@@ -388,9 +384,6 @@ else{
     <span class="badge badge-warning"> ➜ <b> ⏳ '.(time() - $loadtime).' seg  </b></span>
     <span class="badge badge-dark"> ➜<b> © OPChecker </b></span>
    ';
-
-    $file = fopen("salvos/Reprovadas.txt", "a");
-    fwrite($file, "#Reprovada  - [$cc|$mes|$ano|$cvv] #OPC\r\n");
     exit();
 
 }
