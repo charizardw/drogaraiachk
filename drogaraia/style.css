@@ -1,0 +1,8 @@
+body {
+  background-color:#ffffff !important; /* Apenas para ver a barra melhor, não é necessário */
+}
+
+div.progress {
+  margin:3px auto; /* Posicionar melhor a barra nesse exemplo, não é necessário */
+  width:500px;
+}

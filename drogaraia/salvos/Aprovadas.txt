@@ -1,0 +1,184 @@
+#Aprovada  - EMAIL: deboranmoreira@hotmail.com|senha | Nome: Débora | Cel: 11989053455 | Cidade: São Paulo-SP | Pedidos: 3 #OPC
+#Aprovada  - EMAIL: danilopaiva@uol.com.br|senha | Nome: Danilo | Cel: 11997205903 | Cidade: - | Pedidos: 2 #OPC
+#Aprovada  - EMAIL: danielle.dr@bol.com.br|senha | Nome: DANIELLE | Cel: 47984233544 | Cidade: - | Pedidos: 28 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: danielastockmann@gmail.com|senha | Nome: Daniela | Cel: 11982729743 | Cidade: Carapicuíba-SP | Pedidos: 1 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: cricaipanema@hotmail.com|senha | Nome: cristina | Cel: 33999298344 | Cidade: TRES RIOS-RJ | Pedidos: 14 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: costa.carla15@gmail.com|senha | Nome: CARLA | Cel: 51920016351 | Cidade: Campo Bom-RS | Pedidos: 6 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: danielahutten@yahoo.com.br|senha | Nome: Daniela | Cel: 21983637700 | Cidade: - | Pedidos: 11 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: danielacallegaro@yahoo.com.br|senha | Nome: DANIELA | Cel: 55981384513 | Cidade: - | Pedidos: 86 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: daniel@infojet.inf.br|senha | Nome: DANIEL | Cel: 61982093030 | Cidade: - | Pedidos: 1 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: dani_rsouza@hotmail.com|senha | Nome: DANIELLE | Cel: 51989246220 | Cidade: Porto Alegre-RS | Pedidos: 7 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: cleidemar.felicio@uol.com.br|senha | Nome: CLEIDEMAR | Cel: 13981828350 | Cidade: Bertioga-SP | Pedidos: 3 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: clauolibar@hotmail.com|senha | Nome: CLAUDIA | Cel: 16981348835 | Cidade: - | Pedidos: 214 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: claudiorgs@hotmail.com|senha | Nome: CLAUDIO | Cel: 61981657909 | Cidade: - | Pedidos: 2 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: cynthia.basso@gmail.com|senha | Nome: Cynthia | Cel: 12997172069 | Cidade: São José dos Campos-SP | Pedidos: 2 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: ctmiyamotosimoes@hotmail.com|senha | Nome: Clarice | Cel: 11956903466 | Cidade: São Paulo-SP | Pedidos: 1 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: carinabuonani@gmail.com|senha | Nome: CARINA | Cel: 11996044256 | Cidade: - | Pedidos: 56 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: cristina.aor@gmail.com|senha | Nome: Cristina | Cel: 11999077810 | Cidade: - | Pedidos: 10 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: cristianbergl@gmail.com|senha | Nome: CRISTIAN | Cel: 11999163534 | Cidade: - | Pedidos: 2 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: caike@ig.com.br|senha | Nome: CARLOS | Cel: 17981316119 | Cidade: Mirassol-SP | Pedidos: 43 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: cabinhobr@yahoo.com.br|senha | Nome: CARLOS | Cel: 47991969132 | Cidade: - | Pedidos: 4 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: ca.akemi@hotmail.com|senha | Nome: CAROLINE | Cel: 11972938515 | Cidade: Salto-SP | Pedidos: 1 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: brunoeb@hotmail.com|senha | Nome: BRUNO | Cel: 21998797070 | Cidade: - | Pedidos:  | cartao: final: -  #OPC
+#Aprovada  - EMAIL: bruninhafersp@hotmail.com|senha | Nome: Bruna | Cel: 11999803479 | Cidade: - | Pedidos: 5 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: clau.esbano@gmail.com|senha | Nome: CLAUDIA | Cel: 11985791619 | Cidade: São Paulo-SP | Pedidos:  | cartao: final: -  #OPC
+#Aprovada  - EMAIL: cintia_dcs@hotmail.com|senha | Nome: Cintia | Cel: 11945523527 | Cidade: São Paulo-SP | Pedidos: 1 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: brancomkt@gmail.com|senha | Nome: THAIS | Cel: 12997580099 | Cidade: CARAGUATATUBA-SP | Pedidos: 4 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: cinderellahuman@hotmail.com|senha | Nome: Thais | Cel:  | Cidade: Mogi Guaçu-SP | Pedidos:  | cartao: final: -  #OPC
+#Aprovada  - EMAIL: bnuzman@gmail.com|senha | Nome: Bruna | Cel: 21996321818 | Cidade: Rio de Janeiro-RJ | Pedidos: 5 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: cidinhabarros81@gmail.com|senha | Nome: Maria | Cel: 11999828140 | Cidade: Santos-SP | Pedidos: 26 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: blandy.regina@gmail.com|senha | Nome: Regina | Cel: 11999094883 | Cidade: São Paulo-SP | Pedidos: 1 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: christomb@hotmail.com|senha | Nome: CHRISTIANE | Cel: 11999722330 | Cidade: - | Pedidos: 8 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: bila_rosa@hotmail.com|senha | Nome: Camila | Cel: 31999526015 | Cidade: Belo Horizonte-MG | Pedidos: 5 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: bilafammja@gmail.com|senha | Nome: FABIOLA | Cel: 21999201529 | Cidade: - | Pedidos: 1 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: biazottolo@hotmail.com|senha | Nome: Bianca | Cel: 21986254209 | Cidade: Teresópolis-RJ | Pedidos: 10 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: biareis@gmail.com|senha | Nome: BEATTIZ | Cel: 21965285555 | Cidade: Rio de Janeiro-RJ | Pedidos: 1 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: biarquiteta@hotmail.com|senha | Nome: BIANCA | Cel: 41992411303 | Cidade: - | Pedidos:  | cartao: final: -  #OPC
+#Aprovada  - EMAIL: biancapetrucci@hotmail.com|senha | Nome: BIANCA | Cel: 11963316557 | Cidade: Suzano-SP | Pedidos: 9 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: biancamensch@hotmail.com|senha | Nome: Bianca | Cel: 55981186560 | Cidade: Santa Maria-RS | Pedidos: 1 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: biajacques@yahoo.com.br|senha | Nome: Beatriz | Cel: 24988187118 | Cidade: - | Pedidos: 30 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: biaerenato@ig.com.br|senha | Nome: Beatriz | Cel: 21987720906 | Cidade: Valença-RJ | Pedidos:  | cartao: final: -  #OPC
+#Aprovada  - EMAIL: biaalcantara@hotmail.com|senha | Nome: BEATRIZ | Cel: 11976799401 | Cidade: - | Pedidos: 5 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: cesoliva@gmail.com|senha | Nome: Carlos | Cel: 21996401164 | Cidade: RIO DE JANEIRO-RJ | Pedidos: 4 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: bethwagner@terra.com.br|senha | Nome: ELIZABETH | Cel: 51999985809 | Cidade: PORTO ALEGRE-RS | Pedidos: 19 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: belkisvm@yahoo.com.br|senha | Nome: BELKIS | Cel: 12981387087 | Cidade: - | Pedidos: 102 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: belafreire@yahoo.com.br|senha | Nome: IZABELA | Cel: 31988096900 | Cidade: Belo Horizonte-MG | Pedidos: 73 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: celia@flockcolor.com.br|senha | Nome: CELIA | Cel: 11998858603 | Cidade: Guarulhos-SP | Pedidos: 5 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: celia_ferrarini@yahoo.com.br|senha | Nome: CÉLIA | Cel: 45991224631 | Cidade: - | Pedidos: 188 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: cecilia.meneses@uol.com.br|senha | Nome: CECILIA | Cel: 11961616164 | Cidade: - | Pedidos: 5 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: bcgarriga@gmail.com|senha | Nome: Beatriz | Cel: 21987107005 | Cidade: Rio de Janeiro-RJ | Pedidos: 1 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: bcaceres@terra.com.br|senha | Nome: Cintia | Cel: 51981938646 | Cidade: - | Pedidos: 1 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: barbarareis17@yahoo.com.br|senha | Nome: Barbara | Cel:  | Cidade: - | Pedidos:  | cartao: final: -  #OPC
+#Aprovada  - EMAIL: cau0811@hotmail.com|senha | Nome: claudia | Cel: 49999110604 | Cidade: CHAPECO-SC | Pedidos: 5 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: catia.fantin@gmail.com|senha | Nome: Cátia | Cel: 19996544975 | Cidade: São Paulo-SP | Pedidos: 1 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: castrofabiola@hotmail.com|senha | Nome: FABIOLA | Cel: 16981779222 | Cidade: - | Pedidos: 11 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: cassianr@yahoo.com.br|senha | Nome: CASSIA | Cel: 11976631137 | Cidade: - | Pedidos: 1 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: caroll_castro@hotmail.com|senha | Nome: CAROLINE | Cel: 41996018757 | Cidade: Curitiba-PR | Pedidos: 4 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: carolinnaslim@yahoo.com.br|senha | Nome: ANA | Cel: 31971478178 | Cidade: Belo Horizonte-MG | Pedidos: 4 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: carolinemoraiscosta@hotmail.com|senha | Nome: CAROLINE | Cel: 43996114639 | Cidade: - | Pedidos: 4 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: ana.angelik@gmail.com|senha | Nome: Ana angelica | Cel: 11980528010 | Cidade: São Paulo-SP | Pedidos: 4 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: ana.fanuchi@gmail.com|senha | Nome: Ana | Cel:  | Cidade: - | Pedidos:  | cartao: final: -  #OPC
+#Aprovada  - EMAIL: ana-campelo@uol.com.br|senha | Nome: Ana Cristina | Cel: 21980505910 | Cidade: - | Pedidos: 34 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: analuisoares@uol.com.br|senha | Nome: ANA | Cel: 15997235009 | Cidade: Sorocaba-SP | Pedidos: 8 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: anamail@hotmail.com|senha | Nome: ANA | Cel:  | Cidade: - | Pedidos: 1 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: camis.rodrigues@gmail.com|senha | Nome: CAMILA | Cel: 11992790081 | Cidade: - | Pedidos: 27 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: anaturzzi@gmail.com|senha | Nome: ANA | Cel: 11940848048 | Cidade: - | Pedidos:  | cartao: final: -  #OPC
+#Aprovada  - EMAIL: anderson@atrtelecom.com.br|senha | Nome: ANDERSON | Cel: 13991650125 | Cidade: SANTOS-SP | Pedidos: 13 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: camilachristo@hotmail.com|senha | Nome: CAMILA | Cel: 45999531167 | Cidade: Cascavel-PR | Pedidos: 44 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: beth_zenari@yahoo.com.br|senha | Nome: ELIZABETH | Cel: 21999194867 | Cidade: Niterói-RJ | Pedidos: 13 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: andre.matao@gmail.com|senha | Nome: ANDRE | Cel: 16981172293 | Cidade: Matao-SP | Pedidos: 1 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: andrea@albrecht.com.br|senha | Nome: ANDREA | Cel: 47999342266 | Cidade: - | Pedidos: 6 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: andreabelchol@me.com|senha | Nome: ANDREA | Cel: 19998061616 | Cidade: - | Pedidos: 56 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: andreginato@yahoo.com.br|senha | Nome: ANDREA | Cel: 11999027043 | Cidade: - | Pedidos: 11 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: andreiasmendes@gmail.com|senha | Nome: Andreia  | Cel: 11991442934 | Cidade: Rio de Janeiro-RJ | Pedidos: 3 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: andressa.sobroza@hotmail.com|senha | Nome: ANDRESSA | Cel: 51991742323 | Cidade: Porto Alegre-RS | Pedidos: 10 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: arianefantini@gmail.com|senha | Nome: ARIANE | Cel: 31998463594 | Cidade: - | Pedidos: 143 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: apserralvo@bol.com.br|senha | Nome: Aparecida | Cel: 11991467485 | Cidade: São Paulo-SP | Pedidos: 2 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: apmdutra@hotmail.com|senha | Nome: ANA | Cel: 46988019818 | Cidade: - | Pedidos: 9 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: anna-agostinho@hotmail.com|senha | Nome: ANNA | Cel: 19996946479 | Cidade: - | Pedidos: 5 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: annacarolina1001@hotmail.com|senha | Nome: anna carolina | Cel: 19992092924 | Cidade: Campinas-SP | Pedidos: 13 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: anullina@gmail.com|senha | Nome: THAIS | Cel: 21997240503 | Cidade: Rio de Janeiro-RJ | Pedidos: 9 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: anubgama@gmail.com|senha | Nome: ANUB | Cel: 21979781145 | Cidade: - | Pedidos: 5 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: anniabea@gmail.com|senha | Nome: ANNIA | Cel: 11988029707 | Cidade: - | Pedidos: 11 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: carinabuonani@gmail.com|senha | Nome: CARINA | Cel: 11996044256 | Cidade: - | Pedidos: 56 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: carinabuonani@gmail.com|senha | Nome: CARINA | Cel: 11996044256 | Cidade: - | Pedidos: 56 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: cristina.aor@gmail.com|senha | Nome: Cristina | Cel: 11999077810 | Cidade: - | Pedidos: 10 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: cristina.aor@gmail.com|senha | Nome: Cristina | Cel: 11999077810 | Cidade: São Paulo-SP | Pedidos: 10 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: bruninhafersp@hotmail.com|senha | Nome: Bruna | Cel: 11999803479 | Cidade: São Paulo-SP | Pedidos: 5 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: carinabuonani@gmail.com|senha | Nome: CARINA | Cel: 11996044256 | Cidade: Salto-SP | Pedidos: 56 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: carinabuonani@gmail.com|senha | Nome: CARINA | Cel: 11996044256 | Cidade: Salto-SP | Pedidos: 56 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: carinabuonani@gmail.com|senha | Nome: CARINA | Cel: 11996044256 | Cidade: Salto-SP | Pedidos: 56 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: carinabuonani@gmail.com|senha | Nome: CARINA | Cel: 11996044256 | Cidade: Salto-SP | Pedidos: 56 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: carinabuonani@gmail.com|senha | Nome: CARINA | Cel: 11996044256 | Cidade: Salto-SP | Pedidos: 56 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: costa.carla15@gmail.com|senha | Nome: CARLA | Cel: 51920016351 | Cidade: Campo Bom-RS | Pedidos: 6 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: danilopaiva@uol.com.br|senha | Nome: Danilo | Cel: 11997205903 | Cidade: - | Pedidos: 2 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: danielastockmann@gmail.com|senha | Nome: Daniela | Cel: 11982729743 | Cidade: Carapicuíba-SP | Pedidos: 1 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: deboranmoreira@hotmail.com|senha | Nome: Débora | Cel: 11989053455 | Cidade: Sao Paulo-SP | Pedidos: 3 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: cricaipanema@hotmail.com|senha | Nome: cristina | Cel: 33999298344 | Cidade: Três Rios-RJ | Pedidos: 14 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: anniabea@gmail.com|senha | Nome: ANNIA | Cel: 11988029707 | Cidade: Amparo-SP | Pedidos: 11 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: danielahutten@yahoo.com.br|senha | Nome: Daniela | Cel: 21983637700 | Cidade: Rio de Janeiro-RJ | Pedidos: 11 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: anubgama@gmail.com|senha | Nome: ANUB | Cel: 21979781145 | Cidade: - | Pedidos: 5 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: anullina@gmail.com|senha | Nome: THAIS | Cel: 21997240503 | Cidade: Rio de Janeiro-RJ | Pedidos: 9 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: anna-agostinho@hotmail.com|senha | Nome: ANNA | Cel: 19996946479 | Cidade: - | Pedidos: 5 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: apmdutra@hotmail.com|senha | Nome: ANA | Cel: 46988019818 | Cidade: Francisco Beltrão-PR | Pedidos: 9 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: carinabuonani@gmail.com|senha | Nome: CARINA | Cel: 11996044256 | Cidade: Salto-SP | Pedidos: 56 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: danielacallegaro@yahoo.com.br|senha | Nome: DANIELA | Cel: 55981384513 | Cidade: Santa Maria-RS | Pedidos:  | cartao: final: -  #OPC
+#Aprovada  - EMAIL: danielle.dr@bol.com.br|senha | Nome: DANIELLE | Cel: 47984233544 | Cidade: Brusque-SC | Pedidos: 28 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: apserralvo@bol.com.br|senha | Nome: Aparecida | Cel: 11991467485 | Cidade: São Paulo-SP | Pedidos: 2 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: andressa.sobroza@hotmail.com|senha | Nome: ANDRESSA | Cel: 51991742323 | Cidade: Porto Alegre-RS | Pedidos: 10 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: cristina.aor@gmail.com|senha | Nome: Cristina | Cel: 11999077810 | Cidade: São Paulo-SP | Pedidos: 10 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: arianefantini@gmail.com|senha | Nome: ARIANE | Cel: 31998463594 | Cidade: Belo Horizonte-MG | Pedidos: 143 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: cristianbergl@gmail.com|senha | Nome: CRISTIAN | Cel: 11999163534 | Cidade: São Paulo-SP | Pedidos: 2 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: andreiasmendes@gmail.com|senha | Nome: Andreia  | Cel: 11991442934 | Cidade: Rio de Janeiro-RJ | Pedidos: 3 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: andreginato@yahoo.com.br|senha | Nome: ANDREA | Cel: 11999027043 | Cidade: Jundiaí-SP | Pedidos: 11 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: andreabelchol@me.com|senha | Nome: ANDREA | Cel: 19998061616 | Cidade: - | Pedidos: 56 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: dani_rsouza@hotmail.com|senha | Nome: DANIELLE | Cel: 51989246220 | Cidade: Porto Alegre-RS | Pedidos: 7 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: cabinhobr@yahoo.com.br|senha | Nome: CARLOS | Cel: 47991969132 | Cidade: Balneário Camboriú-SC | Pedidos: 4 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: andrea@albrecht.com.br|senha | Nome: ANDREA | Cel: 47999342266 | Cidade: Joinville-SC | Pedidos: 6 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: beth_zenari@yahoo.com.br|senha | Nome: ELIZABETH | Cel: 21999194867 | Cidade: Niterói-RJ | Pedidos: 13 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: camilachristo@hotmail.com|senha | Nome: CAMILA | Cel: 45999531167 | Cidade: Cascavel-PR | Pedidos: 44 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: anderson@atrtelecom.com.br|senha | Nome: ANDERSON | Cel: 13991650125 | Cidade: SANTOS-SP | Pedidos: 13 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: clauolibar@hotmail.com|senha | Nome: CLAUDIA | Cel: 16981348835 | Cidade: - | Pedidos: 214 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: brunoeb@hotmail.com|senha | Nome: BRUNO | Cel: 21998797070 | Cidade: - | Pedidos:  | cartao: final: -  #OPC
+#Aprovada  - EMAIL: daniel@infojet.inf.br|senha | Nome: DANIEL | Cel: 61982093030 | Cidade: - | Pedidos: 1 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: camis.rodrigues@gmail.com|senha | Nome: CAMILA | Cel: 11992790081 | Cidade: São Paulo-SP | Pedidos: 27 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: claudiorgs@hotmail.com|senha | Nome: CLAUDIO | Cel: 61981657909 | Cidade: Brasília-DF | Pedidos: 2 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: anamail@hotmail.com|senha | Nome: ANA | Cel:  | Cidade: CURITIBA-PR | Pedidos: 1 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: ana-campelo@uol.com.br|senha | Nome: Ana Cristina | Cel: 21980505910 | Cidade: Rio de Janeiro-RJ | Pedidos: 34 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: clau.esbano@gmail.com|senha | Nome: CLAUDIA | Cel: 11985791619 | Cidade: São Paulo-SP | Pedidos:  | cartao: final: -  #OPC
+#Aprovada  - EMAIL: ana.fanuchi@gmail.com|senha | Nome: Ana | Cel:  | Cidade: - | Pedidos:  | cartao: final: -  #OPC
+#Aprovada  - EMAIL: cintia_dcs@hotmail.com|senha | Nome: Cintia | Cel: 11945523527 | Cidade: São Paulo-SP | Pedidos: 1 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: analuisoares@uol.com.br|senha | Nome: ANA | Cel: 15997235009 | Cidade: Sorocaba-SP | Pedidos: 8 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: brancomkt@gmail.com|senha | Nome: THAIS | Cel: 12997580099 | Cidade: Caraguatatuba-SP | Pedidos: 4 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: cynthia.basso@gmail.com|senha | Nome: Cynthia | Cel: 12997172069 | Cidade: São José dos Campos-SP | Pedidos: 2 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: ca.akemi@hotmail.com|senha | Nome: CAROLINE | Cel: 11972938515 | Cidade: Salto-SP | Pedidos: 1 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: carolinnaslim@yahoo.com.br|senha | Nome: ANA | Cel: 31971478178 | Cidade: Belo Horizonte-MG | Pedidos: 4 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: caroll_castro@hotmail.com|senha | Nome: CAROLINE | Cel: 41996018757 | Cidade: Curitiba-PR | Pedidos: 4 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: ana.angelik@gmail.com|senha | Nome: Ana angelica | Cel: 11980528010 | Cidade: São Paulo-SP | Pedidos: 4 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: cinderellahuman@hotmail.com|senha | Nome: Thais | Cel:  | Cidade: Mogi Guaçu-SP | Pedidos:  | cartao: final: -  #OPC
+#Aprovada  - EMAIL: bruninhafersp@hotmail.com|senha | Nome: Bruna | Cel: 11999803479 | Cidade: São Paulo-SP | Pedidos:  | cartao: final: -  #OPC
+#Aprovada  - EMAIL: bnuzman@gmail.com|senha | Nome: Bruna | Cel: 21996321818 | Cidade: Rio de Janeiro-RJ | Pedidos: 5 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: cassianr@yahoo.com.br|senha | Nome: CASSIA | Cel: 11976631137 | Cidade: - | Pedidos: 1 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: cidinhabarros81@gmail.com|senha | Nome: Maria | Cel: 11999828140 | Cidade: Caruaru-PE | Pedidos: 26 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: cau0811@hotmail.com|senha | Nome: claudia | Cel: 49999110604 | Cidade: CHAPECO-SC | Pedidos: 5 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: barbarareis17@yahoo.com.br|senha | Nome: Barbara | Cel:  | Cidade: - | Pedidos:  | cartao: final: -  #OPC
+#Aprovada  - EMAIL: blandy.regina@gmail.com|senha | Nome: Regina | Cel: 11999094883 | Cidade: São Paulo-SP | Pedidos: 1 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: catia.fantin@gmail.com|senha | Nome: Cátia | Cel: 19996544975 | Cidade: São Paulo-SP | Pedidos: 1 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: castrofabiola@hotmail.com|senha | Nome: FABIOLA | Cel: 16981779222 | Cidade: - | Pedidos: 11 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: bcaceres@terra.com.br|senha | Nome: Cintia | Cel: 51981938646 | Cidade: - | Pedidos: 1 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: bila_rosa@hotmail.com|senha | Nome: Camila | Cel: 31999526015 | Cidade: Belo Horizonte-MG | Pedidos: 5 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: bilafammja@gmail.com|senha | Nome: FABIOLA | Cel: 21999201529 | Cidade: - | Pedidos: 1 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: cecilia.meneses@uol.com.br|senha | Nome: CECILIA | Cel: 11961616164 | Cidade: São Paulo-SP | Pedidos: 5 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: biazottolo@hotmail.com|senha | Nome: Bianca | Cel: 21986254209 | Cidade: Teresópolis-RJ | Pedidos: 10 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: biareis@gmail.com|senha | Nome: BEATTIZ | Cel: 21965285555 | Cidade: Rio de Janeiro-RJ | Pedidos: 1 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: bcgarriga@gmail.com|senha | Nome: Beatriz | Cel: 21987107005 | Cidade: Rio de Janeiro-RJ | Pedidos: 1 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: biancapetrucci@hotmail.com|senha | Nome: BIANCA | Cel: 11963316557 | Cidade: Suzano-SP | Pedidos: 9 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: belafreire@yahoo.com.br|senha | Nome: IZABELA | Cel: 31988096900 | Cidade: Belo Horizonte-MG | Pedidos: 73 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: celia@flockcolor.com.br|senha | Nome: CELIA | Cel: 11998858603 | Cidade: Guarulhos-SP | Pedidos: 5 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: belkisvm@yahoo.com.br|senha | Nome: BELKIS | Cel: 12981387087 | Cidade: Sao Jose dos Campos-SP | Pedidos: 102 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: biajacques@yahoo.com.br|senha | Nome: Beatriz | Cel: 24988187118 | Cidade: Belo Horizonte-MG | Pedidos: 30 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: biaerenato@ig.com.br|senha | Nome: Beatriz | Cel: 21987720906 | Cidade: Valença-RJ | Pedidos:  | cartao: final: -  #OPC
+#Aprovada  - EMAIL: bethwagner@terra.com.br|senha | Nome: ELIZABETH | Cel: 51999985809 | Cidade: Porto Alegre-RS | Pedidos: 19 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: biaalcantara@hotmail.com|senha | Nome: BEATRIZ | Cel: 11976799401 | Cidade: São Paulo-SP | Pedidos: 5 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: biarquiteta@hotmail.com|senha | Nome: BIANCA | Cel: 41992411303 | Cidade: - | Pedidos:  | cartao: final: -  #OPC
+#Aprovada  - EMAIL: biancamensch@hotmail.com|senha | Nome: Bianca | Cel: 55981186560 | Cidade: Santa Maria-RS | Pedidos: 1 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: dwloebel@gmail.com|senha | Nome: DENISE | Cel: 11970934742 | Cidade: - | Pedidos: 8 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: dudu_schlichting@hotmail.com|senha | Nome: EDUARDO | Cel: 49999047676 | Cidade: BRUSQUE-SC | Pedidos: 10 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: dricamartins7@hotmail.com|senha | Nome: ADRIANA | Cel: 11971491338 | Cidade: São Paulo-SP | Pedidos: 2 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: drabiancasantana@globo.com|senha | Nome: BIANCA | Cel: 21997561187 | Cidade: Rio de Janeiro-RJ | Pedidos:  | cartao: final: -  #OPC
+#Aprovada  - EMAIL: dracarlagarcia@gmail.com|senha | Nome: CARLA | Cel: 11982732856 | Cidade: São Paulo-SP | Pedidos: 6 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: dracarlagarcia@gmail.com|senha | Nome: CARLA | Cel: 11982732856 | Cidade: São Paulo-SP | Pedidos: 6 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: dricamartins7@hotmail.com|senha | Nome: ADRIANA | Cel: 11971491338 | Cidade: São Paulo-SP | Pedidos: 2 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: dudu_schlichting@hotmail.com|senha | Nome: EDUARDO | Cel: 49999047676 | Cidade: BRUSQUE-SC | Pedidos: 10 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: dwloebel@gmail.com|senha | Nome: DENISE | Cel: 11970934742 | Cidade: Sorocaba-SP | Pedidos: 8 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: edivalbasilio@uol.com.br|senha | Nome: EDIVAL | Cel: 11996056606 | Cidade: - | Pedidos: 3 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: eduardo.paula@uol.com.br|senha | Nome: PAULA | Cel: 43999165158 | Cidade: LONDRINA-PR | Pedidos: 11 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: elainemarsola@gmail.com|senha | Nome: ELAINE | Cel: 11966974566 | Cidade: São Paulo-SP | Pedidos: 4 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: elainesoijo@hotmail.com|senha | Nome: ELAINE | Cel: 31994480300 | Cidade: Contagem-MG | Pedidos: 10 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: eliane-junqueira@uol.com.br|senha | Nome: ELIANE | Cel: 21996033475 | Cidade: Rio de Janeiro-RJ | Pedidos: 14 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: elianemmariano@uol.com.br|senha | Nome: ELIANE | Cel: 11961116273 | Cidade: Santo André-SP | Pedidos: 1 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: elizabethbelchior7@gmail.com|senha | Nome: Elizabeth | Cel: 11985677828 | Cidade: Itapevi-SP | Pedidos: 1 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: elizette99@hotmail.com|senha | Nome: ELIZETTE | Cel: 48999199818 | Cidade: Florianópolis-SC | Pedidos: 6 | cartao: final: -  #OPC
+#Aprovada  - EMAIL: emailhaddad@gmail.com|senha | Nome: CECILIA | Cel: 31988398889 | Cidade: - | Pedidos:  | cartao: final: -  #OPC
+#Aprovada  - EMAIL: emargret@yahoo.com|senha | Nome: EMILIE | Cel: 11976321100 | Cidade: - | Pedidos:  | cartao: final: -  #OPC
+#Aprovada  - EMAIL: emilia.dias@gmail.com|senha | Nome: EMILIA | Cel: 11985601821 | Cidade: Taboão da Serra-SP | Pedidos: 10 | cartao: final: -  #OPC
